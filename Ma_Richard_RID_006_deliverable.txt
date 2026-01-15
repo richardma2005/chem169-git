@@ -1,0 +1,19 @@
+origin	git@github.com:richardma2005/chem169-git.git (fetch)
+origin	git@github.com:richardma2005/chem169-git.git (push)
+commit f169b75c2d13e048fe5c73151c220f15157b3573
+Author: Richard Ma <0richardma0@gmail.com>
+Date:   Thu Jan 15 13:41:05 2026 -0800
+
+    Add course information to README
+
+commit d9a424830ee3c488e6f7d4d79c206459a9ff4f97
+Author: Richard Ma <0richardma0@gmail.com>
+Date:   Thu Jan 15 13:33:51 2026 -0800
+
+    Added first log entry
+
+commit 94cda6547b90e4a1967300f53172c91dc93837ce
+Author: Richard Ma <0richardma0@gmail.com>
+Date:   Thu Jan 15 13:31:11 2026 -0800
+
+    Initial commit
